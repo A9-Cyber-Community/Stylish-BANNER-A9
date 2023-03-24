@@ -34,7 +34,6 @@ A9 Cyber Security <img src="https://emojis.slackmojis.com/emojis/images/15883150
 ```
 
 #### How To Remove Banner
-Pest This Command 
 
 echo "if [ -x /data/data/com.termux/files/usr/libexec/termux/command-not-found ]; then
          command_not_found_handle() {
@@ -42,7 +41,7 @@ echo "if [ -x /data/data/com.termux/files/usr/libexec/termux/command-not-found ]
          }
  fi
 
- PS1='\[\e[31m\]┌─[\[\e[37m\]\T\[\e[31m\]]─────\e[1;98m[Remove BANNER]\e[0;31m───[\#]\n|\n\e[0;31m└─[\[\e[31m\]\e[0;35m\W\[\e[31m\]]────►\e[1;93m'" > /data/data/com.termux/files/usr/etc/bash.bashrc && exit
+ PS1='\[\e[31m\]┌─[\[\e[37m\]\T\[\e[31m\]]─────\e[1;98m[Write Your Name]\e[0;31m───[\#]\n|\n\e[0;31m└─[\[\e[31m\]\e[0;35m\W\[\e[31m\]]────►\e[1;93m'" > /data/data/com.termux/files/usr/etc/bash.bashrc && exit
 
 
 #### Screenshots:
