@@ -32,13 +32,4 @@ A9 Cyber Security <img src="https://emojis.slackmojis.com/emojis/images/15883150
  python2 Stylish-Banner-A9.py
  exit
 ```
-#### Screenshots:
-
-<p align="center"><img src="Tool Screen shot ">
-
-
-#### Tools Languages :
-
-![Customized Card](python)
-
-## Thanks For Visiting
+## Thanks For Visiting 🖤
