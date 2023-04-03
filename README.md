@@ -10,7 +10,7 @@ A9 Cyber Security <img src="https://emojis.slackmojis.com/emojis/images/15883150
 
 </br>
 <p align="center">
-      Tarmux Stylish  banner Header..
+      Termux Stylish  banner Header..
 
 </p>
   
